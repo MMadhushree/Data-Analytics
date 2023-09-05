@@ -1,11 +1,11 @@
 # Data Analytics Projects Repository
 Welcome to the Data Analytics Projects Repository! This repository contains a collection of data analytics projects focused on various domains. Each project is designed to showcase data analysis, visualization, and machine learning techniques applied to real-world datasets. Below, you'll find a brief overview of the projects included in this repository.
-
+<br><br>
 ### Project 1: Telecom Churn Rate Analysis
-*Description*:
+**Description**<br>
 In this project, we analyze a dataset from a telecom company to understand customer churn rates. Customer churn, or attrition, is a crucial metric for businesses. We explore factors contributing to churn and develop insights to reduce it.
 
-*Key Tasks*:<br>
+**Key Tasks**<br>
 Exploratory Data Analysis (EDA) to understand the dataset.
 Visualizations to identify trends and patterns.
 Feature engineering to prepare data for modeling.
@@ -13,10 +13,10 @@ Building machine learning models to predict churn.
 Evaluation and recommendations for reducing churn.
 
 ### Project 2: Heart Disease Prediction
-*Description*
+**Description**<br>
 This project focuses on predicting heart disease occurrences based on patient data. Heart disease is a major health concern, and early prediction can be life-saving. We use machine learning techniques to create a predictive model.
 
-*Key Tasks*
+**Key Tasks**<br>
 Data preprocessing and cleaning.
 Exploratory Data Analysis (EDA) for insights into heart disease factors.
 Feature selection and engineering.
@@ -25,10 +25,10 @@ Model evaluation and interpretation.
 Providing recommendations for heart disease prevention.
 
 ### Project 3: Exploratory Data Analysis (EDA) on Loan Analysis
-*Description*
+**Description**<br>
 The third project involves an in-depth Exploratory Data Analysis (EDA) on a dataset related to loans. EDA is crucial to understand the characteristics and relationships within the data, making it an essential step before any further analysis.
 
-/*Key Tasks*/
+**Key Tasks**<br>
 Comprehensive Exploratory Data Analysis (EDA).
 Visualization of loan characteristics.
 Identifying trends, correlations, and outliers.
