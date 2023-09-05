@@ -2,10 +2,10 @@
 Welcome to the Data Analytics Projects Repository! This repository contains a collection of data analytics projects focused on various domains. Each project is designed to showcase data analysis, visualization, and machine learning techniques applied to real-world datasets. Below, you'll find a brief overview of the projects included in this repository.
 
 ### Project 1: Telecom Churn Rate Analysis
-*Description*
+*Description*:
 In this project, we analyze a dataset from a telecom company to understand customer churn rates. Customer churn, or attrition, is a crucial metric for businesses. We explore factors contributing to churn and develop insights to reduce it.
 
-*Key Tasks*
+*Key Tasks*:<br>
 Exploratory Data Analysis (EDA) to understand the dataset.
 Visualizations to identify trends and patterns.
 Feature engineering to prepare data for modeling.
